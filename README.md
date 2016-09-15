@@ -1,3 +1,4 @@
 # Workshop 2
 
-The second workshop of CS326, which covers how to use Git in a group setting.
+The second workshop of CS326, which covers how to use Git in a group setting,
+but now Im changing the text!!!
